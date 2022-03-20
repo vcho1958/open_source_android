@@ -73,10 +73,9 @@
         android:layout_height="265dp"
         android:layout_marginStart="85dp"
         android:layout_marginEnd="86dp"
-        android:layout_marginBottom="102dp"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/radioGroup"
         app:srcCompat="@drawable/logo11" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
