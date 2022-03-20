@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="WebButton">홈페이지 열기</string>
+    <string name="CharButton">글자 나타내기</string>
+</resources>
