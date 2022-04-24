@@ -2,7 +2,6 @@
 <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/2020039080 조현창"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
 
@@ -27,7 +26,7 @@
         tools:ignore="SpeakableTextPresentCheck" />
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/buttonq"
         android:layout_width="82dp"
         android:layout_height="wrap_content"
         android:layout_row="2"

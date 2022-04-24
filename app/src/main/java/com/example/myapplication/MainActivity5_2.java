@@ -29,7 +29,7 @@ public class MainActivity5_2 extends AppCompatActivity {
         Edit1 = (EditText) findViewById(R.id.Edit1);
         Edit2 = (EditText) findViewById(R.id.Edit2);
         textResult = (TextView) findViewById(R.id.TextResult);
-        Integer[] ids = {R.id.button0,R.id.button1,R.id.button2,R.id.button3, R.id.button4,
+        Integer[] ids = {R.id.button0,R.id.buttonq,R.id.button2,R.id.button3, R.id.button4,
                 R.id.button5, R.id.button6, R.id.button7, R.id.button8, R.id.button9};
         for(int i = 0; i < 10; i++){
             BtnNums[i] = (Button) findViewById(ids[i]);

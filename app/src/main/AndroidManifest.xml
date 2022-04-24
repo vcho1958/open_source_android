@@ -10,6 +10,54 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".MainActivityM9"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivityM8S3"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivityM8S2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityM8S1"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityM8menu"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityM8"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivityM7S"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivityM7"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivityM6"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity7_3"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity7_2"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity6_2"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity6_1"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity_different_two_button"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity_screen"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity_two_button"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity5_5"
             android:exported="true" />
         <activity
